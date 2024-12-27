@@ -1,0 +1,9 @@
+{
+    "Meaning of Life": 42,
+    "Foo": "bar",
+    "Exponent": 1.0e10,
+    "Escapes": "\b \n bob \u1234",
+    "Nested": {
+        "json": "object"
+    }
+}

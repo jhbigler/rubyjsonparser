@@ -8,5 +8,5 @@ I wrote this strictly for funsies and to better learn and understand parsing con
 
 ## Notes
 
-- Can't guarantee complete correctness, especially with exponents (This isn't meants to actually be used anyways)
+- Can't guarantee complete correctness, especially with exponents (This shouldn't actually be used anyways)
 - Probably inefficient, especially with the string parsing
